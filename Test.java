@@ -29,7 +29,7 @@ public class Test {
         //Displaying elements of array after sorting    
         System.out.println("Elements of array sorted in ascending order: ");    
         for (int i = 0; i < arr.length; i++) {     
-            System.out.print(arr[i] + " ");    
+            System.out.print(arr[i] + " OK");    
 	}
 
 }}
